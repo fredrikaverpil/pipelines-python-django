@@ -2,6 +2,11 @@
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
+| My example | Build status |
+|---------|--------------|
+| Build (YAML) | [![Build Status](https://fredrikaverpil.visualstudio.com/pipelines-python-django/_apis/build/status/fredrikaverpil.pipelines-python-django?branchName=master)](https://fredrikaverpil.visualstudio.com/pipelines-python-django/_build/latest?definitionId=3?branchName=master) |
+
+
 | Example | Build status |
 |---------|--------------|
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=13) |
