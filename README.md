@@ -5,7 +5,8 @@ For information on how to use this repository, see [Python](https://docs.microso
 | My example | Build status |
 |---------|--------------|
 | Build (YAML) | [![Build Status](https://fredrikaverpil.visualstudio.com/pipelines-python-django/_apis/build/status/fredrikaverpil.pipelines-python-django?branchName=master)](https://fredrikaverpil.visualstudio.com/pipelines-python-django/_build/latest?definitionId=3?branchName=master) |
-
+| Build image and push to Docker Hub (YAML) | [![Build Status](https://fredrikaverpil.visualstudio.com/pipelines-python-django/_apis/build/status/fredrikaverpil.pipelines-python-django-docker?branchName=master)](https://fredrikaverpil.visualstudio.com/pipelines-python-django/_build/latest?definitionId=4?branchName=master)
+ |
 
 | Example | Build status |
 |---------|--------------|
